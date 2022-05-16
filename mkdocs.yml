@@ -1,0 +1,19 @@
+site_name: Deivid Carvalho
+site_url: https://example.com/
+theme: material
+
+nav:
+    - About me: fazer.md
+      
+    #- WebService: fazer.md
+
+    #- DataBase: fazer.md
+
+    #- IA: fazer.md
+
+    - Experiencies:
+      - WebService: fazer.md
+      - DataBase: fazer.md
+      - Artificial Intelligence: fazer.md
+      
+      

@@ -7,7 +7,7 @@
 **Whatsapp for contact:** (61) 98121-7133<br>
 **GitHub:** [deivid-a1](https://github.com/deivid-a1)<br>
 
-## Perfil
+## Profile
 My focus is being an AI engineer. I am currently a researcher at the laboratory [AILAB](https://ailab.unb.br/). Also work with webservices.
 
 ## Soft skills

@@ -3,8 +3,8 @@ site_url: https://example.com/
 theme: material
 
 nav:
-    - About me: fazer.md
-      
+    - About-me: about/whoAmI.md
+
     #- WebService: fazer.md
 
     #- DataBase: fazer.md
@@ -12,8 +12,8 @@ nav:
     #- IA: fazer.md
 
     - Experiencies:
-      - WebService: fazer.md
-      - DataBase: fazer.md
-      - Artificial Intelligence: fazer.md
+      - WebService: experiencies/webService.md
+      - DataBase: experiencies/database.md
+      - Artificial Intelligence: experiencies/IA.md
       
       

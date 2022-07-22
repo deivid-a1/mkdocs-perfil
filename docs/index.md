@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Deivid Carvalho
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Name:** Deivid Alves de Carvalho<br>
+**Age:** 21 anos<br>
+**From:** Brasília, Brazil<br>
+**Email for contact:** deivid_506_02@hotmail.com<br>
+**Whatsapp for contact:** (61) 985556472<br>
+**GitHub:** [deivid-a1](https://github.com/deivid-a1)<br>
 
-## Commands
+## Profile
+My focus is being an AI engineer. I am currently a researcher at the laboratory [AILAB](https://ailab.unb.br/). Also work with webservices.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Soft skills
+* Git: GitLab, GitHub
+* WebService: SOAP, REST
+* Python and C/C++
+* Object Detection with YOLO and Class object training with Darknet Framework
+* OpenCV Framework: Image treatment
+* Django/DjangoAPIREST
+* Agile Methodolody
